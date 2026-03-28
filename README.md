@@ -6,7 +6,7 @@
 
 > Building AI-powered tools for endurance sports — helping athletes track history, discover races, and unlock insights from their data.
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anil-gorti&theme=github-compact&hide_border=true&area=true)
+![Anil's GitHub Contributions](https://ghchart.rshah.org/anil-gorti)
 
 ---
 
