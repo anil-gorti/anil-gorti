@@ -41,6 +41,14 @@
 
 ---
 
+## ⚡ How I Operate
+
+I run my work and life on **[apex-OS](https://github.com/anil-gorti/apex-OS)** — a personal operating system built on Radical Candor, OKR-driven prioritization, and AI-augmented decision-making. It’s not a to-do list. It’s infrastructure.
+
+> *Outcomes over Output. Consistency over Intensity.*
+
+---
+
 ## About Me
 
 I'm a product builder obsessed with endurance sports and AI. I run marathons and half-marathons, and I'm building the tooling I wish existed for athletes — race discovery, history tracking, AI-powered profiling, and club management. Based in Bengaluru, India.
