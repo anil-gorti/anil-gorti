@@ -7,6 +7,11 @@
 > I define the product vision, own the roadmap, and ship — closing the loop from user insight to working software. Currently building an AI-native platform for endurance sports in India.
 
 ---
+## Contributions
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=anil-gorti&theme=github-compact)
+
+---
 
 ## What I'm Building
 
