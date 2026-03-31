@@ -7,33 +7,28 @@
 > I define the product vision, own the roadmap, and ship — closing the loop from user insight to working software. Currently building an AI-native platform for endurance sports in India.
 
 ---
-## Contributions
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=anil-gorti&theme=github-compact&interval=month)
-
----
 
 ## What I'm Building
 
 A vertically integrated platform for endurance athletes: race discovery, verified history, club management, and AI-powered coaching insights. Built from scratch, with a clear north star — make endurance sports infrastructure in India as good as anywhere in the world.
 
 ### 🏃 [Athlete Profiler](https://github.com/anil-gorti/athlete-profiler)
-**Problem:** Athletes have no single source of truth for their race history.  
-**Solution:** Strava OAuth + Gmail race-email extraction + timing-site scraping, unified by a multi-agent LLM pipeline into a verified athlete profile.  
+**Problem:** Athletes have no single source of truth for their race history.
+**Solution:** Strava OAuth + Gmail race-email extraction + timing-site scraping, unified by a multi-agent LLM pipeline into a verified athlete profile.
 **Stack:** Next.js · FastAPI · Claude · PostgreSQL
 
 ### 🗂️ [Race Data Pipeline](https://github.com/anil-gorti/race-data-pipeline)
-**Problem:** Indian race data is fragmented across 5+ incompatible timing platforms.  
-**Solution:** Scrapers, a canonical event registry, and a FastAPI layer that makes race data queryable for the first time.  
+**Problem:** Indian race data is fragmented across 5+ incompatible timing platforms.
+**Solution:** Scrapers, a canonical event registry, and a FastAPI layer that makes race data queryable for the first time.
 **Stack:** Python · Playwright · APScheduler · FastAPI
 
 ### 🏊 [Club Platform](https://github.com/anil-gorti/club-platform)
-**Problem:** Sports clubs run on WhatsApp groups and spreadsheets.  
-**Solution:** A self-serve club OS — coach–athlete relationships, consent-gated data access, member management, and admin dashboards.  
+**Problem:** Sports clubs run on WhatsApp groups and spreadsheets.
+**Solution:** A self-serve club OS — coach–athlete relationships, consent-gated data access, member management, and admin dashboards.
 **Stack:** Next.js · Clerk · Supabase · Prisma
 
 ### 🏋️ [Hyrox Timekeeper](https://github.com/anil-gorti/Timekeeper-App-for-Hyrox)
-**Problem:** Volunteer timekeepers at Hyrox events have no dedicated tooling.  
+**Problem:** Volunteer timekeepers at Hyrox events have no dedicated tooling.
 **Solution:** A station-by-station tracking app covering all 12 alternating activities with Rox Time transitions.
 
 ---
@@ -57,12 +52,12 @@ A vertically integrated platform for endurance athletes: race discovery, verifie
 
 ## Tech I Use to Ship
 
-**Languages:** TypeScript · Python · JavaScript  
-**Frontend:** Next.js · React · Tailwind CSS  
-**Backend:** FastAPI · Node.js · Prisma · PostgreSQL · Supabase  
-**AI / Agents:** Claude (Anthropic) · OpenAI · Multi-agent pipelines · LLM orchestration  
-**Data:** Playwright · web scraping · CSV pipelines · Strava API  
-**Auth & Infra:** Clerk · OAuth · Vercel  
+**Languages:** TypeScript · Python · JavaScript
+**Frontend:** Next.js · React · Tailwind CSS
+**Backend:** FastAPI · Node.js · Prisma · PostgreSQL · Supabase
+**AI / Agents:** Claude (Anthropic) · OpenAI · Multi-agent pipelines · LLM orchestration
+**Data:** Playwright · web scraping · CSV pipelines · Strava API
+**Auth & Infra:** Clerk · OAuth · Vercel 
 
 ---
 
