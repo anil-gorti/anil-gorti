@@ -44,6 +44,8 @@ A vertically integrated platform for endurance athletes: race discovery, verifie
 
 ## Other Projects
 
+- 🚀 **[Career Engine](https://github.com/anil-gorti/career-engine)** — Agentic 4-agent AI pipeline that tailors your resume and cover letter to any job description. Stack: Next.js · Claude.
+- 💪 **[Centurion](https://github.com/anil-gorti/centurion)** — 100-day habit tracker with the Decade Engine: an AI health coaching layer (morning NBA, evening check-ins, weekly summaries) powered by Claude. Stack: Next.js · Supabase · Claude.
 - 🌙 **[Google Docs Dark Mode](https://github.com/anil-gorti/google-docs-dark-mode)** — Browser extension with 0 permissions required. Chrome + Firefox.
 - 🤖 **[Agency Agents](https://github.com/anil-gorti/agency-agents)** — AI agency toolkit with specialized agents across the full stack
 - 🔬 **[AutoResearch](https://github.com/anil-gorti/auto-research)** — AI agents automating single-GPU nanochat research workflows
@@ -57,7 +59,7 @@ A vertically integrated platform for endurance athletes: race discovery, verifie
 **Backend:** FastAPI · Node.js · Prisma · PostgreSQL · Supabase
 **AI / Agents:** Claude (Anthropic) · OpenAI · Multi-agent pipelines · LLM orchestration
 **Data:** Playwright · web scraping · CSV pipelines · Strava API
-**Auth & Infra:** Clerk · OAuth · Vercel 
+**Auth & Infra:** Clerk · OAuth · Vercel
 
 ---
 
@@ -71,7 +73,9 @@ I run work and life on **[apex-OS](https://github.com/anil-gorti/apex-OS)** — 
 
 ## About Me
 
-I'm a product leader who builds. I run marathons and half-marathons, and I've spent the last few years identifying the gaps in endurance sports infrastructure — then building the tooling to close them. My edge is sitting at the intersection of deep user empathy, product instinct, and the technical ability to prototype and ship without depending on a full engineering team.
+I'm a product leader who builds. I run marathons and half-marathons, and I've spent the last few years identifying the gaps in endurance sports infrastructure — then building the tooling to close them.
+
+My edge is sitting at the intersection of deep user empathy, product instinct, and the technical ability to prototype and ship without depending on a full engineering team.
 
 Based in Bengaluru. Building for India, with a global roadmap.
 
