@@ -4,13 +4,16 @@
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/) [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![Claude](https://img.shields.io/badge/-Claude-CC785C?style=flat&logo=anthropic&logoColor=white)](https://anthropic.com/) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-> I define the product vision, own the roadmap, and ship — closing the loop from user insight to working software. Currently building an AI-native platform for endurance sports in India.
+> I define the product vision, own the roadmap, and ship - closing the loop from user insight to working software. Currently building an AI-native platform for endurance sports in India.
 
 ---
 
 ## What I'm Building
 
 A vertically integrated platform for endurance athletes: race discovery, verified history, club management, and AI-powered coaching insights. Built from scratch, with a clear north star — make endurance sports infrastructure in India as good as anywhere in the world.
+
+Canonical architecture: `race-data-pipeline` -> `athlete-profiler` -> `club-platform`.
+Most one-off prototype repos have now been consolidated into these core repos and archived.
 
 ### 🏃 [Athlete Profiler](https://github.com/anil-gorti/athlete-profiler)
 **Problem:** Athletes have no single source of truth for their race history.
@@ -46,9 +49,10 @@ A vertically integrated platform for endurance athletes: race discovery, verifie
 
 - 🚀 **[Career Engine](https://github.com/anil-gorti/career-engine)** — Agentic 4-agent AI pipeline that tailors your resume and cover letter to any job description. Stack: Next.js · Claude.
 - 💪 **[Centurion](https://github.com/anil-gorti/centurion)** — 100-day habit tracker with the Decade Engine: an AI health coaching layer (morning NBA, evening check-ins, weekly summaries) powered by Claude. Stack: Next.js · Supabase · Claude.
+- 🧭 **[Product Org OS](https://github.com/anil-gorti/product-org-os-master)** — Company-agnostic operating system for product teams (strategy, process, people, standards).
 - 🌙 **[Google Docs Dark Mode](https://github.com/anil-gorti/google-docs-dark-mode)** — Browser extension with 0 permissions required. Chrome + Firefox.
 - 🤖 **[Agency Agents](https://github.com/anil-gorti/agency-agents)** — AI agency toolkit with specialized agents across the full stack
-- 🔬 **[AutoResearch](https://github.com/anil-gorti/auto-research)** — AI agents automating single-GPU nanochat research workflows
+- 🔬 **[AutoResearch](https://github.com/anil-gorti/autoresearch)** — AI agents automating single-GPU nanochat research workflows
 
 ---
 
@@ -63,9 +67,10 @@ A vertically integrated platform for endurance athletes: race discovery, verifie
 
 ---
 
-## Operating System
+## Operating Systems
 
-I run work and life on **[apex-OS](https://github.com/anil-gorti/apex-OS)** — a personal framework built on Radical Candor, OKR-driven prioritization, and AI-augmented decision-making.
+- **[Product Org OS](https://github.com/anil-gorti/product-org-os-master)** - canonical PM operating system and playbook library.
+- **[apex-OS](https://github.com/anil-gorti/apex-OS)** - personal framework built on Radical Candor, OKR-driven prioritization, and AI-augmented decision-making.
 
 > Outcomes over output. Compounding over sprinting.
 
