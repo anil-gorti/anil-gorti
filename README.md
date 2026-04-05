@@ -34,6 +34,11 @@ Most one-off prototype repos have now been consolidated into these core repos an
 **Problem:** Volunteer timekeepers at Hyrox events have no dedicated tooling.
 **Solution:** A station-by-station tracking app covering all 12 alternating activities with Rox Time transitions.
 
+### ✈️ [Travel India](https://github.com/anil-gorti/Travel-India)
+**Problem:** India travel planning is fragmented across dozens of disconnected platforms.
+**Solution:** Unified travel discovery and planning app for India — consolidated from multiple prototypes (ReturnEase, Yaatri Sarthi Shield).
+**Stack:** TypeScript · Next.js
+
 ---
 
 ## How I Think About Product
@@ -51,6 +56,8 @@ Most one-off prototype repos have now been consolidated into these core repos an
 - 💪 **[Centurion](https://github.com/anil-gorti/centurion)** — 100-day habit tracker with the Decade Engine: an AI health coaching layer (morning NBA, evening check-ins, weekly summaries) powered by Claude. Stack: Next.js · Supabase · Claude.
 - 🧭 **[Product Org OS](https://github.com/anil-gorti/product-org-os-master)** — Company-agnostic operating system for product teams (strategy, process, people, standards).
 - 🌙 **[Google Docs Dark Mode](https://github.com/anil-gorti/google-docs-dark-mode)** — Browser extension with 0 permissions required. Chrome + Firefox.
+- 🙏 **[Sankalp](https://github.com/anil-gorti/Sankalp-AI-Genererated-Bhajans)** — Personalized devotional song (Bhajan) app for Indian users. Generate custom bhajans with AI.
+- 📅 **[Decade Engine](https://github.com/anil-gorti/decade-engine)** — Long-horizon life planning and goal tracking tool.
 - 🤖 **[Agency Agents](https://github.com/anil-gorti/agency-agents)** — AI agency toolkit with specialized agents across the full stack
 - 🔬 **[AutoResearch](https://github.com/anil-gorti/autoresearch)** — AI agents automating single-GPU nanochat research workflows
 
